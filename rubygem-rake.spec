@@ -10,7 +10,7 @@ Summary: Ruby based make-like utility
 Name: rubygem-%{gemname}
 
 Version: 10.0.4
-Release: 1%{?dist}
+Release: 2%{?dist}
 Group: Development/Languages
 License: MIT
 URL: http://rake.rubyforge.org
